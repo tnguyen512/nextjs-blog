@@ -17,7 +17,7 @@ export default function Home({ allPostsData }) {
         </p>
         <p>
           (Truy cập Facebook {' '}
-          <a href="https://www.facebook.com/Dailyquanchuncocoonquan9">Mẹ Mickey Store</a> để xem thêm sản phẩm)
+          <a href="https://www.facebook.com/memickeystore">Mẹ Mickey Store</a> để xem thêm sản phẩm)
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
